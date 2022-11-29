@@ -24,5 +24,7 @@ public class Test {
             }
         }
 System.out.println(Arrays.toString(arr));
+system
+System.out.println(Arrays."Rizwana");
     }
 }
